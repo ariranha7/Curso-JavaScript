@@ -16,3 +16,17 @@ console.log(media.toFixed(2))
 console.log(media.toString(2))
 console.log(typeof media)
 console.log(typeof Number)
+
+// a partir daqui, são exercícios que resolvi fazer para praticar
+
+let massa = 10.400000
+let altura = 1.300000
+let largura = 20
+
+console.log(Number.isInteger(massa))
+console.log(Number.isInteger(altura))
+console.log(Number.isInteger(largura))
+console.log(media.toFixed(3))
+console.log(altura.toFixed(5))
+console.log(massa.toFixed(1))
+console.log(Number.isInteger(massa))
